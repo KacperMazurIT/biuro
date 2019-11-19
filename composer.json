@@ -1,0 +1,24 @@
+{
+    "name": "kacperek/cms",
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "pusher/pusher-php-server": "^4.0",
+        "vlucas/phpdotenv": "^3.6"
+    },
+    
+    "autoload": {
+        
+        "classmap": [
+            
+            "classes"
+            
+        ]
+    },
+    
+    "authors": [
+        {
+            "name": "Kacper Mazur",
+            "email": "kacper_mazur@vp.pl"
+        }
+    ]
+}
